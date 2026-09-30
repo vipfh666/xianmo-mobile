@@ -1,2 +1,2 @@
-rootProject.name = "xianmo-mobile"
 include ':app'
+rootProject.name = "xianmo-mobile"
